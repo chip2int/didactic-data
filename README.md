@@ -1,4 +1,7 @@
 # Data Sets of the City
  Carson Lepre & Joseph Toney
  
- Project using Python and Pandas to analyze effectiveness of Voter guides during election. Also, analyzing bullet votes from the June 2018 SF Elections
+ Project using Python and Pandas to:
+ - Analyze the effectiveness of Voter guides during election. 
+ - Calculating bullet votes and candidates as first choice from the June 2018 SF Elections.
+ - Plotting Under votes and Ballot errors.
